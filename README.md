@@ -10,7 +10,7 @@ unzip Major.rar
 cd Major.rar
 ```
 ```
-chmod =X Major.rar
+chmod +X Major.rar
 ```
 ```
 sudo apt install -y \
