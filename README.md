@@ -7,16 +7,10 @@ sudo apt update
 git clone https://github.com/dlzvy/MAJOR.git
 ```
 ```
-cd MAJOR
+cd MAJOR && cd major
 ```
 ```
-apt install unzip && unzip Major.rar
-```
-```
-cd Major.rar
-```
-```
-chmod +X Major.rar
+apt install screen && screen -S major
 ```
 ```
 sudo apt install -y \
@@ -45,5 +39,12 @@ sudo apt install -y \
 ```
 npm install axios puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
 ```
+```
+nano hash.txt
+```
+```
+node index.js
+```
+
 
 
