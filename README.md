@@ -4,6 +4,9 @@
 sudo apt update
 ```
 ```
+git clone https://github.com/dlzvy/MAJOR.git
+```
+```
 unzip Major.rar
 ```
 ```
