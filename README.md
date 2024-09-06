@@ -7,7 +7,10 @@ sudo apt update
 git clone https://github.com/dlzvy/MAJOR.git
 ```
 ```
-unzip Major.rar
+cd MAJOR
+```
+```
+apt install unzip && unzip Major.rar
 ```
 ```
 cd Major.rar
